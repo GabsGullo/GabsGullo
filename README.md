@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: ...
+
+- [![GabsGullo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsGullo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GabsGullo/GabsGullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
