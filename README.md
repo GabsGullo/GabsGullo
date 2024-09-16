@@ -23,5 +23,5 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabsgullo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gabsgullo" /></p>
-\n
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabsgullo&show_icons=true&locale=en&theme=dracula" alt="gabsgullo" /></p>
