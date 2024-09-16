@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 
-[![GabsGullo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsGullo&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![GabsGullo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabsGullo&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GabsGullo/GabsGullo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
