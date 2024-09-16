@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Gullo</h1>
 <h3 align="center">A passionate information system student at UNIRIO/ AI Reseacher/ Back-end Developer</h3>
 
-- 🔭 I’m currently working on **Lexical Simplification for portuguese using Deep Learning modelsLearning**
+- 🔭 I’m currently working on **Lexical Simplification for portuguese using Deep Learning models**
 
 - 🌱 I’m currently learning **JavaScript, Node.js, React.js, Devops(AWS and Docker)**
 
