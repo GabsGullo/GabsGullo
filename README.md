@@ -22,12 +22,12 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
+<p align="left">
   <!-- Gráfico das linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabsgullo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="gabsgullo" />
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Gráfico das estatísticas gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=gabsgullo&show_icons=true&locale=en&theme=dracula" alt="gabsgullo" />
 </p>
