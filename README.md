@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Lexical Simplification for portuguese using Deep Learning models**
 
-- 🌱 I’m currently learning **JavaScript, React.js, Devops(AWS and Docker)**
+- 🌱 I’m currently learning **JavaScript, Devops(AWS and Docker)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GabsGullo](https://github.com/GabsGullo)
 
